@@ -1,7 +1,7 @@
-# Image Detecting
+# Target
 
-this repo's goal is an improvement in overall development capability about image processing
-> Surgical wound image, ultrasonic image
+This repo was created by projecting a personal study of image segmentation and detection.
+If you have an opinion, please confirm it at any time.
 
 <br>
 
